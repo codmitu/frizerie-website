@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/frizerie-website/static/css/main.e2920616.chunk.css",
-    "main.js": "/frizerie-website/static/js/main.ec79e7e8.chunk.js",
-    "main.js.map": "/frizerie-website/static/js/main.ec79e7e8.chunk.js.map",
+    "main.js": "/frizerie-website/static/js/main.edb4cd7a.chunk.js",
+    "main.js.map": "/frizerie-website/static/js/main.edb4cd7a.chunk.js.map",
     "runtime-main.js": "/frizerie-website/static/js/runtime-main.7d4d9d3e.js",
     "runtime-main.js.map": "/frizerie-website/static/js/runtime-main.7d4d9d3e.js.map",
     "static/css/2.ad581902.chunk.css": "/frizerie-website/static/css/2.ad581902.chunk.css",
-    "static/js/2.8b9eb46a.chunk.js": "/frizerie-website/static/js/2.8b9eb46a.chunk.js",
-    "static/js/2.8b9eb46a.chunk.js.map": "/frizerie-website/static/js/2.8b9eb46a.chunk.js.map",
+    "static/js/2.708e7d4b.chunk.js": "/frizerie-website/static/js/2.708e7d4b.chunk.js",
+    "static/js/2.708e7d4b.chunk.js.map": "/frizerie-website/static/js/2.708e7d4b.chunk.js.map",
     "index.html": "/frizerie-website/index.html",
     "static/css/2.ad581902.chunk.css.map": "/frizerie-website/static/css/2.ad581902.chunk.css.map",
     "static/css/main.e2920616.chunk.css.map": "/frizerie-website/static/css/main.e2920616.chunk.css.map",
-    "static/js/2.8b9eb46a.chunk.js.LICENSE.txt": "/frizerie-website/static/js/2.8b9eb46a.chunk.js.LICENSE.txt",
+    "static/js/2.708e7d4b.chunk.js.LICENSE.txt": "/frizerie-website/static/js/2.708e7d4b.chunk.js.LICENSE.txt",
     "static/media/despreNoi-header.75a95d22.jpg": "/frizerie-website/static/media/despreNoi-header.75a95d22.jpg",
     "static/media/img1.jpg": "/frizerie-website/static/media/img1.06f4b05f.jpg",
     "static/media/img10.f59a08e2.jpg": "/frizerie-website/static/media/img10.f59a08e2.jpg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.7d4d9d3e.js",
     "static/css/2.ad581902.chunk.css",
-    "static/js/2.8b9eb46a.chunk.js",
+    "static/js/2.708e7d4b.chunk.js",
     "static/css/main.e2920616.chunk.css",
-    "static/js/main.ec79e7e8.chunk.js"
+    "static/js/main.edb4cd7a.chunk.js"
   ]
 }
