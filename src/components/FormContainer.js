@@ -101,7 +101,7 @@ export default function FormContainer() {
                         id="standard-multiline-static"
                         label="Informații suplimentare"
                         multiline
-                        rows={1}
+                        rows={2}
                         margin="dense"
                     />
                     <Button
