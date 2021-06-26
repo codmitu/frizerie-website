@@ -1,0 +1,51 @@
+export const homeObjOne = {
+    id: 'despre',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: "De ce să alegeți serviciile noastre?",
+    headline: 'Frizeria Stallion - Locul de răsfăț al bărbaților!',
+    description: 'Barbatii au nevoi specifice pe care trebuie sa le acopere in dorinta lor de dezvoltare continua. Intr-o lume in care frumusetea a fost mult timp asociata doar cu femeile, la salonul nostru am creat atmosfera necesara evolutiei barbatilor!',
+    buttonLabel: '...citește mai mult',
+    imgStart: false,
+    img: require('./images/img1.jpg').default,
+    alt: 'Photo by Orau from Pexels',
+    title: 'Photo by Orau from Pexels',
+    dark: true,
+    primary: true,
+    darkText: false
+}
+export const homeObjTwo = {
+    id: 'preturi',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "Servicii și prețuri",
+    headline: 'Pachet Express',
+    description: 'Tuns + Spălat + Aranjat / Barbă: 50RON',
+    buttonLabel: 'Vezi toate prețurile',
+    imgStart: true,
+    img: require('./images/img2.jpg').default,
+    alt: 'Photo by cottonbro from Pexels',
+    title: 'Photo by cottonbro from Pexels',
+    dark: false,
+    primary: false,
+    darkText: true
+}
+export const homeObjThree = {
+    id: 'rezervari',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "Rezervări",
+    headline: 'Programează-te online rapid și ușor',
+    description: 'Ne încadrăm în ora programată de tine și respectăm programul de tuns asadar va invitam sa dati click pe butonul de mai jos pentru a afla toate informatiile de contact.',
+    buttonLabel: 'Programează-te',
+    imgStart: false,
+    img: require('./images/img3.jpg').default,
+    alt: 'Photo by ROMAN ODINTSOV from Pexels',
+    title: 'Photo by ROMAN ODINTSOV from Pexels',
+    dark: false,
+    primary: false,
+    darkText: true
+}
