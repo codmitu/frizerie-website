@@ -8,7 +8,7 @@ import Rezervari from './components/Rezervari';
 function App() {
 
   return (
-    <Router basename="/website-demo">
+    <Router>
       <Switch>
         <Route path="/" component={Homepage} exact />
         <Route path="/despre" component={Despre} />
