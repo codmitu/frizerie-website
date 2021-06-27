@@ -20,6 +20,9 @@ const FormWrapper = styled.form`
     flex-direction: column;
     flex: 1;
     padding: 20px;
+    button {
+        border-radius: 0;
+    }
 `
 
 export default function FormContainer() {

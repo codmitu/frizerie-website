@@ -5,7 +5,7 @@ const ScheduleWrapper = styled.section`
     width: 100%;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    margin: 50px 0 0;
+    margin: 50px 0 20px;
     >div {
         flex: 1 1 100px;
         display: flex;
